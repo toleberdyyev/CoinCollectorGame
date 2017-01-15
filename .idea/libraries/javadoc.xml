@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/restfb-1.35.0.zip!/restfb-1.35.0/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/restfb-1.35.0.zip!/restfb-1.35.0/source/library" />
+      <root url="jar://$USER_HOME$/Downloads/restfb-1.35.0.zip!/restfb-1.35.0/source/test/java" />
+    </SOURCES>
+  </library>
+</component>
